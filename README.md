@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src=".\resources\GAN-Presentation-01.jpg" /></div>
+<div style="text-align:center"><img src=".\resources\GAN Presentation-01.jpg" /></div>
 <div style="text-align:center"><img src=".\resources\GAN Presentation-02.jpg" /></div>
 <div style="text-align:center"><img src=".\resources\GAN Presentation-03.jpg" /></div>
 <div style="text-align:center"><img src=".\resources\GAN Presentation-04.jpg" /></div>
